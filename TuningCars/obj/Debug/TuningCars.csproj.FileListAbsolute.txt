@@ -1,0 +1,6 @@
+S:\Step\Homeworks\C#\Homework#10(03.04.2015)\TuningCars\TuningCars\bin\Debug\TuningCars.exe.config
+S:\Step\Homeworks\C#\Homework#10(03.04.2015)\TuningCars\TuningCars\bin\Debug\TuningCars.exe
+S:\Step\Homeworks\C#\Homework#10(03.04.2015)\TuningCars\TuningCars\bin\Debug\TuningCars.pdb
+S:\Step\Homeworks\C#\Homework#10(03.04.2015)\TuningCars\TuningCars\obj\Debug\TuningCars.csprojResolveAssemblyReference.cache
+S:\Step\Homeworks\C#\Homework#10(03.04.2015)\TuningCars\TuningCars\obj\Debug\TuningCars.exe
+S:\Step\Homeworks\C#\Homework#10(03.04.2015)\TuningCars\TuningCars\obj\Debug\TuningCars.pdb
